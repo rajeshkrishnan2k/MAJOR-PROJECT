@@ -9,6 +9,10 @@ Components Required:
 Arduino Uno Mega 2560 Nodemcu esp8266 wifi module LM7805 Voltage Regulator Potentiometer 330-ohm resistors pack 5v 2A adaptor 2n2222 NPN transistors 10k Resistor lm7805 Voltage Regulator 330-ohm resistors pack 470uf capacitors 5×7cm Vero board female headers connection wires Jumper Wires Bread Board 12v Adaptor PCB plate Variable Supply Digital Multimeter Vero Board / stripboard PCB small portable drill machine DHT 11 Sensor
 
 # Theory:
+
+![image](https://user-images.githubusercontent.com/62196439/76695875-7c0e3200-66aa-11ea-975d-4b2fc509653b.png)
+
+
  
 The DHT11 Temperature & Humidity Sensor features a temperature & humidity sensor complex with a calibrated digital signal output. By using the exclusive digital-signal-acquisition technique and temperature & humidity sensing technology, it ensures high reliability and excellent long-term stability. Pin number 1 is the VCC, pin number 2 is the data, pin number 3 is not connected while pin number 4 is the Ground.
  
