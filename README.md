@@ -16,6 +16,11 @@ Arduino Uno Mega 2560 Nodemcu esp8266 wifi module LM7805 Voltage Regulator Poten
  
 The DHT11 Temperature & Humidity Sensor features a temperature & humidity sensor complex with a calibrated digital signal output. By using the exclusive digital-signal-acquisition technique and temperature & humidity sensing technology, it ensures high reliability and excellent long-term stability. Pin number 1 is the VCC, pin number 2 is the data, pin number 3 is not connected while pin number 4 is the Ground.
  
+
+![image](https://user-images.githubusercontent.com/62196439/76695887-a364ff00-66aa-11ea-8009-d54c0719cad6.png)
+
+
+
 Our job here is to develop the DHT11 using the Arduino UNO to access the Temperature and Humidity values and then using the Serial Communication the temperature and humidity values are sent in a string message to the designed computer application. These values are displayed on the screen and are also sent to the destination email id.
 THE CODE FOR PROGRAMMING THE SENSOR HAS BEEN ATTACHED.
 
